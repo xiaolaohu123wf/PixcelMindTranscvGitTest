@@ -1,20 +1,6 @@
-# PixcelMindTranscvGitTest
-学习git操作
+以下是简单的 Python 和 Java 代码示例：
 
-
-## 成员
-
-|名称|生日|
-|-|-|
-|王文斐|020618|
-|杨咏涵|*041105*|
-|秦智健|**030915**|
-|擢升于|040310|
-|张子君|040713|
-
-### 基础用法
-
-> 核心思想：GPL 的约束并非为了限制自由，而是通过法律工具来捍卫和扩展自由。它确保任何从自由软件中受益的衍生作品，也必须同样自由，从而形成一个不断增长的软件公地。对于开发者来说，在使用 GPL 软件前，务必理解其“传染性”条款，并评估它是否与你项目的商业模式和许可证策略兼容。
+## Python 示例
 
 ```python
 # 定义一个简单的类
@@ -49,7 +35,9 @@ if __name__ == "__main__":
     print(f"数字: {numbers}")
     print(f"平方: {squares}")
 ```
----
+
+## Java 示例
+
 ```java
 // 主类
 public class SimpleExample {
@@ -95,3 +83,13 @@ public class SimpleExample {
     }
 }
 ```
+
+## 两个语言的主要区别：
+
+1. **语法**：Python 更简洁，Java 需要分号和花括号
+2. **类型**：Python 是动态类型，Java 是静态类型
+3. **类定义**：Python 使用 `class` 关键字，Java 需要 `public class`
+4. **主程序**：Python 用 `if __name__ == "__main__"`，Java 用 `public static void main`
+5. **输出**：Python 用 `print()`，Java 用 `System.out.println()`
+
+这两个示例都展示了面向对象编程的基本概念：类、对象、方法和基本操作。
