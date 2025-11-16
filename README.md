@@ -95,5 +95,6 @@ public class SimpleExample {
     }
 }
 ```
-这个游戏非常好玩
+我们的游戏正在蒸蒸日上哦~~~
+请给我们的游戏打个差评谢谢~~~~
 ![项目截图](https://picb1.photophoto.cn/18/430/18430591_1.jpg)
